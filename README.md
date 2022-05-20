@@ -1,4 +1,4 @@
-# diplomaIITM
+# DiplomaIITM
 
 
 ### Machine Learning Foundations
