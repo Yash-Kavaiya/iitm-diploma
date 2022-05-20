@@ -2,4 +2,4 @@
 
 
 ### Machine Learning Foundations
-Week:-1 https://youtu.be/uaFTaQxqWjg
+Playlist :- https://www.youtube.com/playlist?list=PLMO2LgIT9_CcXj48IoRyXD_qsvsQeCilt
