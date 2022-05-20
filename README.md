@@ -7,4 +7,4 @@ Playlist :- https://www.youtube.com/playlist?list=PLMO2LgIT9_CcXj48IoRyXD_qsvsQe
 
 ### Maths 2
 
-###Statsics :- 2 
+### Statsics :- 2 
