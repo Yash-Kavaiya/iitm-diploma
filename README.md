@@ -12,3 +12,13 @@ Playlist :- https://www.youtube.com/playlist?list=PLZ2ps__7DhBboGlwPVSsWP8loAJCL
 
 ### Statsics :- 2 
 Playlist:-
+
+###TDS 
+Playlist :- https://www.youtube.com/playlist?list=PLMO2LgIT9_CcIlVaf1iXGCVw80YFKJLqh
+
+###MLT
+Playlist:- https://www.youtube.com/playlist?list=PLMO2LgIT9_CfJDgSHhpfg54IGAKE3VmHW
+
+###MLP:- https://www.youtube.com/playlist?list=PLMO2LgIT9_Cf6Q-qUeKeIhYDFRGQvaNaI
+
+#BA :- 
