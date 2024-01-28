@@ -24,7 +24,7 @@ Playlist :- [https://www.youtube.com/playlist?list=PLMO2LgIT9_Cf6Q-qUeKeIhYDFRGQ
 
 ### Business Analytics :-  
 Playlist :- [https://youtube.com/playlist?list=PLZ2ps__7DhBaLi6KQP_MHx_oGQHnqlTji&si=1JoLKFQKPOkcFXZL](https://youtube.com/playlist?list=PLZ2ps__7DhBaLi6KQP_MHx_oGQHnqlTji&si=1JoLKFQKPOkcFXZL)
-
+Here is an up to date [collection](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vR5m-uA_UzN1INlvj9E2t9nJmuc1ZGvG18PByksi7sHmB6Wm30aY1q_gjrEnsXtnYzf5QCPW5S2ymeE/pubhtml) of links to all course playlists on YouTube. This list is privately maintained by me and will be updated as the courses roll out.
 
 |Courses | Playlist Link|
 |--- | ---|
